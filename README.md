@@ -202,7 +202,7 @@ Clique em `Play` (primeiro botão na imagem) e depois, após salvar as configura
 
 ## Submissão
 
-Através da aplicação na IBM Cloud (`https://<maratona-id>-desafio1-behindthecode.mybluemix.net`), você irá clicar no botão **SUBMIT ASSISTANT**, preencher com o seu CPF e enviar para a avaliação final.
+Através da aplicação na IBM Cloud (`https://<maratona-id>-desafio1-behindthecode.mybluemix.net`), você irá clicaR no botão **SUBMIT ASSISTANT**, preencher com o seu CPF e enviar para a avaliação final.
 
 <div align="center">
     <img width="750" src="doc/source/images/App%2001.png">
